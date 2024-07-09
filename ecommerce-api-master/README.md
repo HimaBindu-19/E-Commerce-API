@@ -55,33 +55,3 @@ STEPS TO UPDATE THE QUANTITY OF A PRODUCT:
 4.the url should be looking like localhost:3000/products/{id}/update_quantity/?number={x}
 
 5.Make a POST request and you should get a message containing the update product
-
-TECHSTACK
-
-Node.Js, MongoDB
-
-About
-This project is done solely using Node.js & Mongo DB
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-100.0%
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
